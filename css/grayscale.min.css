@@ -35,3 +35,62 @@
  .btn-default{border:1px solid #FFFFFF;color:#FFFFFF;background-color:transparent}
  .btn-default:focus,.btn-default:hover{border:1px solid #FFFFFF;outline:0;color:#000;background-color:#FFFFFF}ul.banner-social-buttons{margin-top:0}@media (max-width:1199px){ul.banner-social-buttons{margin-top:15px}}@media (max-width:767px){ul.banner-social-buttons li{display:block;margin-bottom:20px;padding:0}ul.banner-social-buttons li:last-child{margin-bottom:0}}footer{padding:50px 0}footer p{margin:0}::-moz-selection{text-shadow:none;background:#fcfcfc;background:rgba(255,255,255,.2)}::selection{text-shadow:none;background:#fcfcfc;background:rgba(255,255,255,.2)}img::selection{background:0 0}img::-moz-selection{background:0 0}
 
+.container1 {position: relative; width: 95%;}.image1 {display: block;width: 100%;height: auto;}.overlay1 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #213C78;}
+.container1:hover .overlay1 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container2 {position: relative; width: 95%;}.image2 {display: block;width: 100%;height: auto;}.overlay2 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #333333;}
+.container2:hover .overlay2 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container3 {position: relative; width: 95%;}.image3 {display: block;width: 100%;height: auto;}.overlay3 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #000000;}
+.container3:hover .overlay3 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container4 {position: relative; width: 95%;}.image4 {display: block;width: 100%;height: auto;}.overlay4 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #E4EF00;}
+.container4:hover .overlay4 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container5 {position: relative; width: 95%;}.image5 {display: block;width: 100%;height: auto;}.overlay5 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #FF7C3B;}
+.container5:hover .overlay5 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container6 {position: relative; width: 95%;}.image6 {display: block;width: 100%;height: auto;}.overlay6 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #F7CC00;}
+.container6:hover .overlay6 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container7 {position: relative; width: 95%;}.image7 {display: block;width: 100%;height: auto;}.overlay7 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #F7A80D;}
+.container7:hover .overlay7 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container8 {position: relative; width: 95%;}.image8 {display: block;width: 100%;height: auto;}.overlay8 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #EF4D26;}
+.container8:hover .overlay8 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container9 {position: relative; width: 95%;}.image9 {display: block;width: 100%;height: auto;}.overlay9 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #000000;}
+.container9:hover .overlay9 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container10 {position: relative; width: 95%;}.image10 {display: block;width: 100%;height: auto;}.overlay10 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #7EBDDC;}
+.container10:hover .overlay10 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container11 {position: relative; width: 95%;}.image11 {display: block;width: 100%;height: auto;}.overlay11 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #F7CAC7;}
+.container11:hover .overlay11 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+.container12 {position: relative; width: 95%;}.image12 {display: block;width: 100%;height: auto;}.overlay12 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #7B78A7;}
+.container12:hover .overlay12 {opacity: 1;
+}.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
+
+
+.col
+{
+    float: left;
+    width: 25%;
+}
+
+.last{
+    clear: left;
+}
+
