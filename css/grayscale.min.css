@@ -84,15 +84,19 @@
 }.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
 
 
-.col
-{
-    float: left;
-    width: 25%;
-}
-
-.last{
-    clear: left;
-}
+.col{float: left;width: 25%;}
+.last{clear: left;}
 
 
-
+.white_content1 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #213C78;z-index: 1002;overflow: auto;}
+.white_content2 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #333333;z-index: 1002;overflow: auto;}
+.white_content3 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #000000;z-index: 1002;overflow: auto;}
+.white_content4 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #E4EF00;z-index: 1002;overflow: auto;}
+.white_content5 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #FF7C3B;z-index: 1002;overflow: auto;}
+.white_content6 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #F7CC00;z-index: 1002;overflow: auto;}
+.white_content7 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #F7A80D;z-index: 1002;overflow: auto;}
+.white_content8 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #EF4D26;z-index: 1002;overflow: auto;}
+.white_content9 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #000000;z-index: 1002;overflow: auto;}
+.white_content10 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #7EBDDC;z-index: 1002;overflow: auto;}
+.white_content11 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #F7CAC7;z-index: 1002;overflow: auto;}
+.white_content12 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #7B78A7;z-index: 1002;overflow: auto;}
