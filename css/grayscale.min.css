@@ -75,7 +75,7 @@
 .container10:hover .overlay10 {opacity: 1;
 }.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
 
-.container11 {position: relative; width: 95%;}.image11 {display: block;width: 100%;height: auto;}.overlay11 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #F7CAC7;}
+.container11 {position: relative; width: 95%;}.image11 {display: block;width: 100%;height: auto;}.overlay11 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: #E9867E;}
 .container11:hover .overlay11 {opacity: 1;
 }.text {color: white;font-size: 20px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);}
 
@@ -98,5 +98,5 @@
 .white_content8 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #EF4D26;z-index: 1002;overflow: auto;}
 .white_content9 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #000000;z-index: 1002;overflow: auto;}
 .white_content10 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #7EBDDC;z-index: 1002;overflow: auto;}
-.white_content11 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #F7CAC7;z-index: 1002;overflow: auto;}
-.white_content12 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #7B78A7;z-index: 1002;overflow: auto;}
+.white_content11 {display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #E9867E;z-index: 1002;overflow: auto;}
+.white_content12 {float:left;display: none;position: absolute;top: 25%;left: 25%;width: 50%; height: 50%;padding: 16px;background-color: #7B78A7;z-index: 1002;overflow: auto;}
