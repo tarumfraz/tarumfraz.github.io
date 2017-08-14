@@ -1,2 +1,2 @@
-Personal Website for Tarum Fraz
+Personal Website for Tarum Fraz:
 https://tarumfraz.info
